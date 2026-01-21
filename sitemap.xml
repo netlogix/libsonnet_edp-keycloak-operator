@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.27.1/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.28.0/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.29.0/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.30.0/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+</urlset>
