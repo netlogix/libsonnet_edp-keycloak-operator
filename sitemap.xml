@@ -2,166 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.27.1/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.27.1/v1/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.27.1/v1/v1/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.27.1/v1/v1/keycloak/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.27.1/v1/v1/keycloakClient/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.27.1/v1/v1/keycloakRealm/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.27.1/v1/v1/keycloakRealmComponent/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.27.1/v1/v1/keycloakRealmGroup/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.27.1/v1/v1/keycloakRealmIdentityProvider/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.27.1/v1/v1/keycloakRealmRole/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.28.0/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.28.0/v1/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.28.0/v1/v1/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.28.0/v1/v1/keycloak/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.28.0/v1/v1/keycloakClient/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.28.0/v1/v1/keycloakRealm/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.28.0/v1/v1/keycloakRealmComponent/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.28.0/v1/v1/keycloakRealmGroup/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.28.0/v1/v1/keycloakRealmIdentityProvider/</loc>
-         <lastmod>2026-01-21</lastmod>
-    </url>
-    <url>
-         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.28.0/v1/v1/keycloakRealmRole/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.29.0/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.29.0/v1/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.29.0/v1/v1/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.29.0/v1/v1/keycloak/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.29.0/v1/v1/keycloakClient/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.29.0/v1/v1/keycloakRealm/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.29.0/v1/v1/keycloakRealmComponent/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.29.0/v1/v1/keycloakRealmGroup/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.29.0/v1/v1/keycloakRealmIdentityProvider/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.29.0/v1/v1/keycloakRealmRole/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.30.0/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.30.0/v1/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.30.0/v1/v1/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.30.0/v1/v1/keycloak/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.30.0/v1/v1/keycloakClient/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.30.0/v1/v1/keycloakRealm/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.30.0/v1/v1/keycloakRealmComponent/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.30.0/v1/v1/keycloakRealmGroup/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.30.0/v1/v1/keycloakRealmIdentityProvider/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.30.0/v1/v1/keycloakRealmRole/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.31.1/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.31.1/v1/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.31.1/v1/v1/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.31.1/v1/v1/keycloak/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.31.1/v1/v1/keycloakClient/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.31.1/v1/v1/keycloakRealm/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.31.1/v1/v1/keycloakRealmComponent/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.31.1/v1/v1/keycloakRealmGroup/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.31.1/v1/v1/keycloakRealmIdentityProvider/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_edp-keycloak-operator/1.31.1/v1/v1/keycloakRealmRole/</loc>
+         <lastmod>2026-02-24</lastmod>
     </url>
 </urlset>
